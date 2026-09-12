@@ -1797,4 +1797,4 @@ type Datum = {
   data: Data;
 };
 
-export default new WTRLAB();
+export default new WTRLABES();
